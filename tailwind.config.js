@@ -165,7 +165,6 @@ module.exports = {
     },
   },
   plugins: [
-    // Add some useful plugins for your dream app
     function({ addUtilities }) {
       const newUtilities = {
         '.text-shadow-sm': {
